@@ -2,6 +2,8 @@
 
 用這個網頁來記錄我略懂略懂的coding life吧！
 
+Click for [Demo Page](https://chienjens.github.io/Demo)
+
 
 ### Markdown
 
