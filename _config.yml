@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 
 title: Chien-Jens Chen
 
+logo: "/img/myself.jpg"
+
 navbar-links:
   About Me: "aboutme"
   Resources:
@@ -10,4 +12,4 @@ navbar-links:
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "https://chienjens.github.io/"
   
-avatar: "/img/myself.jpg"
+
