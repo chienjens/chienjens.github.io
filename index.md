@@ -1,4 +1,4 @@
-## Hello! Welcome to Chienjens's Home!
+## Welcome to Chienjens's Home!
 
 用這個網頁來記錄我略懂略懂的coding life吧！
 
