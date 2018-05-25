@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Hello! Welcome to Chienjens's Home!
 
-You can use the [editor on GitHub](https://github.com/chienjens/chienjens.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+用這個網頁來記錄我略懂略懂的coding life吧！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
