@@ -1,25 +1,26 @@
----
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-title: Chien-Jens Chen
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-logo: "/img/myself.jpg"
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-author: Chien-Jens Chen
----
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-<style type="text/css">
+paginate:         5
 
-h1.title {
-  font-size: 38px;
-  color: DarkRed;
-  text-align: center;
-}
-h4.author { /* Header 4 - and the author and data headers use this too  */
-    font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkRed;
-  text-align: center;
-}
+# Custom vars
+version:          2.1.0
 
-</style>
+github:
+  repo:           https://github.com/poole/hyde
