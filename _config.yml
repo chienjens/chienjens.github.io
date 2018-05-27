@@ -20,6 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
+homepicture:      "/img/homemyself.jpg"
 picture:          "/img/myself.jpg"
 
 github:
