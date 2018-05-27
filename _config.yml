@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-picture:          "/img/homemyself.jpg"
+picture:          "/img/homemyself.png"
 
 github:
   repo:           https://chienjens.github.io/
