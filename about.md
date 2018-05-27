@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 ---
 Welcome to Chien-Jens's home!
