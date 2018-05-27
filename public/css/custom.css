@@ -7,7 +7,7 @@
 /* theme-base-0c Sidebar */
 
 .theme-base-0c .sidebar {
-    background-color: #edc951;
+    background-color: #75b5aa;
     color: #655643;
 }
 .theme-base-0c .sidebar a {
@@ -49,7 +49,7 @@
     color: #655643;
 }
 .theme-base-0c .list-inline a:hover .fa-stack-1x {
-    color: #edc951;
+    color: #75b5aa;
 }
 .theme-base-0c .copyright {
     margin-bottom: 0;
@@ -71,7 +71,7 @@
     position: fixed;
     width: 100%;
     margin-bottom: 20px;
-    background-color: #edc951;
+    background-color: #75b5aa;
     color: #655643;
     z-index: 10;
     text-align: center;
