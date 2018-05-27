@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: Time Stamp
 ---
 <ul class="archive">
   {% for post in site.posts %}
