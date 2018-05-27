@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-picture:          "https://github.com/chienjens/chienjens.github.io/blob/master/img/homemyself.jpg"
+picture:          #"https://github.com/chienjens/chienjens.github.io/blob/master/img/homemyself.jpg"
 
 github:
   repo:           https://chienjens.github.io/
