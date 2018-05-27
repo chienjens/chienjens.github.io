@@ -84,7 +84,7 @@ html {
 }
 
 /* Image section */
-.sidebar-about image {
+.aligncenter {
   display: block;
   margin-left: auto;
   margin-right: auto;
