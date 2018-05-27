@@ -1,26 +1,25 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
-# Permalinks
-permalink:        pretty
-#relative_permalinks: true
+markdown            : kramdown
+redcarpet:
+  extensions        : ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+highlighter         : rouge
+gems                : ["jekyll-paginate"]
 
 # Setup
-title:            ChenChien
-tagline:          ' ||  Chien-Jens Home'
-description:      'My name is Chien-Jens Chen, here is my <a href="https://www.facebook.com/chien.chen.98">Facebook</a>.'
-url:              https://chienjens.github.io/
-baseurl:          /
+title               : ChenChien
+tagline             : ' ||  Chien-Jens Home'
+description         : 'My name is Chien-Jens Chen, here is my <a href="https://www.facebook.com/chien.chen.98">Facebook</a>.'
+url                 : https://chienjens.github.io/
+baseurl             : /
 
-author:           'Chien-Jens Chen'
-  name:           'Chien-Jens Chen'
-  url:            https://www.facebook.com/chien.chen.98
+author              : ChienJens Chen
+  name              : 'Chien-Jens Chen'
+  url               : https://www.facebook.com/chien.chen.98
 
-paginate:         5
+paginate            : 5
 
 # Custom vars
-picture:          "/img/homemyself.png"
+picture             : "/img/homemyself.png"
 
-github:
-  repo:           https://chienjens.github.io/
+github              : https://chienjens.github.io/
+  repo              : https://chienjens.github.io/
