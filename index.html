@@ -23,7 +23,8 @@ title: Home
             <i class="fa fa-tags fa-stack-1x"></i>
         </span>
         Tags :
-        <span class="post-tags">[
+        <span class="post-tags">
+          [&nbsp;
           {% for tag in page.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
