@@ -11,6 +11,12 @@ layout: default
       <i class="fa fa-tags fa-stack-1x"></i>
     </span>
     : {% for tag in page.tags %} <a class="tag-wrapper" href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><span class="tags">{{ tag }}</span></a>  {% if forloop.last != true %} {% endif %} {% endfor %}
+    <span>[
+      {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      {% endfor %}
+      ]</span>
   </div>
   <div
     class="fb-like social-plugins"
