@@ -4,7 +4,7 @@ title: Add Comment
 subtitle: 測試評論!!
 date: 2018-05-28
 author: Chien-Jens
-tag: secondpost testcomment
+tags: secondpost testcomment
 comments: true
 signature: true
 ---
