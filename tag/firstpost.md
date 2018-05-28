@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: firstpost"
-tag: firstpost
+title: "Tag: FirstPost"
+tag: FirstPost
 ---
