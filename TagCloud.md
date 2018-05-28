@@ -1,5 +1,14 @@
 ---
 layout: page
+title: About
+---
+
+{% include archive.html %}
+
+
+<!--
+---
+layout: page
 title: Tag
 ---
 <ul class="tag-cloud">
@@ -12,3 +21,4 @@ title: Tag
   </li>
 {% endfor %}
 </ul>
+-->
