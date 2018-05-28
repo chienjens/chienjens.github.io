@@ -6,11 +6,12 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
-  <div class="post-tags">
+  <div class="post-tag">
     <span class="fa-stack fa-sm">
       <i class="fa fa-tags fa-stack-1x"></i>
     </span>
-    : {% for tag in page.tags %} <a class="tag-wrapper" href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><span class="tags">{{ tag }}</span></a>  {% if forloop.last != true %} {% endif %} {% endfor %}
+    : {% for tag in page.tags %} <a class="tag-wrapper" href="/tag/{{ tag_name }}" title="View posts tagged with &quot;{{ tag }}&quot;"><span class="tags">{{ tag }}</span></a>  {% if forloop.last != true %} {% endif %} {% endfor %}
+    <!--
     <span>[
       {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
@@ -18,6 +19,7 @@ layout: default
       {% endfor %}
       ]
     </span>
+    -->
   </div>
   <div
     class="fb-like social-plugins"
