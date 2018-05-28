@@ -37,10 +37,6 @@
   {% endif %}
   <!--New add end-->
   
-  {% if site.tags != "" %}
-    {% include collecttags.html %}
-  {% endif %}
-  
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
@@ -62,4 +58,8 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
 </head>
