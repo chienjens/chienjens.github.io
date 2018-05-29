@@ -11,7 +11,7 @@ permalink           : pretty
 # Setup
 title               : ChenChien
 tagline             : ' ||  Chien-Jens Home'
-description         : 'Welcome to Chien-Jens web!'
+description         : 'Welcome to <a href="https://chienjens.github.io/">Chien-Jens</a> web!'
 url                 : https://chienjens.github.io/
 baseurl             : https://chienjens.github.io/
 
