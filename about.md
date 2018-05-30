@@ -14,6 +14,8 @@ Hello, I'm Chien-Jens Chen.
 
 -To be a **Data Scientist** is my goal!
 
+-----------------------------------------------
+
 ##她叫魯夫
 
 **我的愛犬**
@@ -26,6 +28,7 @@ Hello, I'm Chien-Jens Chen.
 
 ![placeholder](/img/Luffy.JPG "My Lover, Luffy")
 
+------------------------------------------------
 
 ##他叫Pei
 
