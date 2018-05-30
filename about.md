@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: About Me
 ---
 Hello, I'm Chien-Jens Chen.
