@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Me
 ---
 Hello, I'm Chien-Jens Chen.
@@ -16,13 +16,15 @@ Hello, I'm Chien-Jens Chen.
 
 -To be a **Data Scientist** is my goal!
 
+-嗜好：看Youtube、健身、打鏢、旅遊、有一台單眼
+
 -----------------------------------------------
 
 **##她叫魯夫**
 
 **我的愛犬**
 
-****很愛玩X很可愛X我很愛****
+****她很愛玩X她很可愛X我很愛****
 
 ![placeholder](/img/Luffy.JPG "My Lover, Luffy")
 
