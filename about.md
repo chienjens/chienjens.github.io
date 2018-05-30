@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: About Me
 ---
 Hello, I'm Chien-Jens Chen.
