@@ -22,22 +22,11 @@ Hello, I'm Chien-Jens Chen.
 
 **我的愛犬**
 
--很愛玩......
-
--很可愛~~~~~
-
--我很愛!!!!!
+****很愛玩X很可愛X我很愛****
 
 ![placeholder](/img/Luffy.JPG "My Lover, Luffy")
 
 ------------------------------------------------
 
-**##他叫Pei**
-
-**My Girlfriend**
-
--恩。
-
-![placeholder](/img/peiandme.JPG "My Girlfriend")
 
 {% include signature.html %}
