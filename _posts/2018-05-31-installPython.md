@@ -53,13 +53,13 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 ## Step8. 
 - 透過`pip install`的方式安裝套件
 - 資料科學常用套件為：<br/>
-1. scikit-learn<br/>
-2. pandas<br/>
-3. numpy<br/>
+&nbsp;&nbsp;1. scikit-learn<br/>
+&nbsp;&nbsp;2. pandas<br/>
+&nbsp;&nbsp;3. numpy<br/>
 則可以透過：<br/>
-`pip install scikit-learn`<br/>
-`pip install pandas`<br/>
-`pip install numpy`<br/>
+&nbsp;&nbsp;`pip install scikit-learn`<br/>
+&nbsp;&nbsp;`pip install pandas`<br/>
+&nbsp;&nbsp;`pip install numpy`<br/>
 來安裝這些套件。
 - 套件還有很多，**大部分**都可透過`pip install`來安裝，<br/>&nbsp;但有些套件確實需要使用別的方法才能安裝成功，於最後再進行補充說明！
 ![placeholder](/img_posts/pyinstall06.jpg "step8.")
