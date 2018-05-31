@@ -23,7 +23,8 @@ signature: true
 ![placeholder](/img/pyinstall02.jpg "step3.")
 
 ## Step4.
-- `<改變安裝路徑>`，原先Default的路徑會藏在C槽的深處，為了之後方便起見，<br/>&nbsp;**強烈建議**自行在適當位置建一個新資料夾，將Python安裝在那個地方！
+- `<改變安裝路徑>`，原先Default的路徑會藏在C槽的深處，為了之後方便起見，<br/>
+&nbsp;**強烈建議**自行在適當位置建一個新資料夾，將Python安裝在那個地方！
 - 更改完畢後點選Install。
 ![placeholder](/img/pyinstall03.jpg "step4.")
 
@@ -36,22 +37,23 @@ signature: true
 
 ## Step7.
 - 改變路徑至Python內的**Scripts**資料夾
-Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，則Scripts會位於C:/Python/Scripts
+Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
+&nbsp;則Scripts會位於C:/Python/Scripts
 - 在cmd輸入`cd C:/Python/Scripts`
 ![placeholder](/img/pyinstall05.jpg "step7.")
 
 ## Step8. 
 - 透過**`pip install`**的方式安裝套件
 - 資料科學常用套件為：<br/>
-&nbsp;&nbsp;1. scikit-learn<br/>
-&nbsp;&nbsp;2. pandas<br/>
-&nbsp;&nbsp;3. numpy<br/>
-&nbsp;&nbsp;則可以透過：<br/>
-&nbsp;&nbsp;`pip install scikit-learn`<br/>
-&nbsp;&nbsp;`pip install pandas`<br/>
-&nbsp;&nbsp;`pip install numpy`<br/>
+&nbsp;1. scikit-learn<br/>
+&nbsp;2. pandas<br/>
+&nbsp;3. numpy<br/>
+&nbsp;則可以透過：<br/>
+&nbsp;`pip install scikit-learn`<br/>
+&nbsp;`pip install pandas`<br/>
+&nbsp;`pip install numpy`<br/>
 來安裝這些套件。
-- 套件還有很多，**大部分**都可透過`pip install`來安裝，<br/>&nbsp;&nbsp;但有些套件確實需要使用別的方法才能安裝成功，於最後再進行補充說明！
+- 套件還有很多，**大部分**都可透過`pip install`來安裝，<br/>&nbsp;但有些套件確實需要使用別的方法才能安裝成功，於最後再進行補充說明！
 ![placeholder](/img/pyinstall06.jpg "step8.")
 
 ## Step9. `<此步驟為安裝Sypder IDE>`
