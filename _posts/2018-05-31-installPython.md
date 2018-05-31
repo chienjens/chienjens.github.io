@@ -16,31 +16,31 @@ signature: true
 - 開啟安裝檔。
 - 先勾選 **Add PythonX.X to PATH** `X.X會根據下載版本的不同而改變`
 - 再選擇 **Cutomize installation**
-![placeholder](/img/pyinstall01.jpg "step2.")
+![placeholder](/img_posts/pyinstall01.jpg "step2.")
 
 ## Step3. 
 - 點選**Next**
-![placeholder](/img/pyinstall02.jpg "step3.")
+![placeholder](/img_posts/pyinstall02.jpg "step3.")
 
 ## Step4.
 - `<改變安裝路徑>`，原先Default的路徑會藏在C槽的深處，為了之後方便起見，<br/>
 &nbsp;**強烈建議**自行在適當位置建一個新資料夾，將Python安裝在那個地方！
 - 更改完畢後點選Install。
-![placeholder](/img/pyinstall03.jpg "step4.")
+![placeholder](/img_posts/pyinstall03.jpg "step4.")
 
 ## Step5. 
 - 就等他安裝完成吧！
 
 ## Step6. `<以下為安裝所需Package的步驟>`
 - 點選**開始**→搜尋**cmd**→以系統管理員身分執行cmd
-![placeholder](/img/pyinstall04.jpg "step6.")
+![placeholder](/img_posts/pyinstall04.jpg "step6.")
 
 ## Step7.
 - 改變路徑至Python內的**Scripts**資料夾
 Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 &nbsp;則Scripts會位於C:/Python/Scripts
 - 在cmd輸入`cd C:/Python/Scripts`
-![placeholder](/img/pyinstall05.jpg "step7.")
+![placeholder](/img_posts/pyinstall05.jpg "step7.")
 
 ## Step8. 
 - 透過`pip install`的方式安裝套件
@@ -54,7 +54,7 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 &nbsp;`pip install numpy`<br/>
 來安裝這些套件。
 - 套件還有很多，**大部分**都可透過`pip install`來安裝，<br/>&nbsp;但有些套件確實需要使用別的方法才能安裝成功，於最後再進行補充說明！
-![placeholder](/img/pyinstall06.jpg "step8.")
+![placeholder](/img_posts/pyinstall06.jpg "step8.")
 
 ## Step9. `<此步驟為安裝Sypder IDE>`
 - 如自己有慣用或預計要使用的IDE，則可忽略這一步！
@@ -63,7 +63,7 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 - 同`Step7.`，接著輸入`pip install spyder`
 - 安裝完畢後到Scripts資料夾中尋找**spyder3**應用程式
 - 可透過右鍵將**spyder3**釘選到工作列以方便使用~
-![placeholder](/img/pyinstall07.jpg "step9.")
+![placeholder](/img_posts/pyinstall07.jpg "step9.")
 
 ## Step10. 
 - 打開Python，透過`import XXX`的方式確認套件是否安裝成功。
