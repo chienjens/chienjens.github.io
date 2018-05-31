@@ -96,7 +96,7 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 ## 補充說明
 有些套件的確透過`pip install`無法有效安裝，<br/>
 此時就需要嘗試另一種方式：**下載whl檔進行安裝**
-- [這個地方](https://www.lfd.uci.edu/~gohlke/pythonlibs/)幾乎擁有你安裝不了的東西(至少我是這樣XDD)
+- <a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/" target="_blank">這個地方</a>幾乎擁有你安裝不了的東西(至少我是這樣XDD)
 - 在上述網址`ctrl+F`找尋你要的package
 - 尋找相對應的版本，如果你的Python是3.6，就找檔名含有`cp36-cp36m`的 <br/>
 然後再根據自己OS的不同選擇`win32` or `amd64` 下載
