@@ -8,6 +8,12 @@ tags: Python Install Package
 comments: true
 signature: true
 ---
+這一篇文章會介紹**如何安裝Python**以及**如何安裝套件**<br/>
+屬於Python**超入門等級**<br/>
+適合Python**無敵新手**<br/>
+<br>**開始惹↓**<br/>
+
+<br/>
 
 ## Step1. 
 - 從<a href="https://www.python.org/downloads/" target="_blank">Python</a>選擇符合自己電腦版本的安裝檔。
