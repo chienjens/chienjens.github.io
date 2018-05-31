@@ -55,7 +55,7 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 - 資料科學常用套件為：<br/>
 &nbsp;&nbsp;1. scikit-learn<br/>
 &nbsp;&nbsp;2. pandas<br/>
-&nbsp;&nbsp;3. numpy<br/>
+&nbsp;&nbsp;3. numpy
 <br>則可以透過：<br/>
 &nbsp;&nbsp;`pip install scikit-learn`<br/>
 &nbsp;&nbsp;`pip install pandas`<br/>
