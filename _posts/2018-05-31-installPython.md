@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 安裝Python and 套件
+title: 安裝Python與Packages
 subtitle: How to Install Python and Packages
 date: 2018-05-31
 author: Chien-Jens
