@@ -115,4 +115,4 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 <br/>
 
 以上是Python安裝的小小心得~ <br/>
-我是新手~希望可以幫到更新的新手XDD
+希望可以幫到**無敵新手**XDD
