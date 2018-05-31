@@ -19,7 +19,7 @@ signature: true
 ![placeholder](/img_posts/pyinstall01.jpg "step2.")
 
 ## Step3. 
-- 點選**Next**
+- 點選**Next** <br/>
 ![placeholder](/img_posts/pyinstall02.jpg "step3.")
 
 ## Step4.
