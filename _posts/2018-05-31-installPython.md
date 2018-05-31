@@ -61,7 +61,8 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 &nbsp;&nbsp;`pip install pandas`<br/>
 &nbsp;&nbsp;`pip install numpy`<br/>
 來安裝這些套件。
-- 套件還有很多，**大部分**都可透過`pip install`來安裝，<br/>&nbsp;但有些套件確實需要使用別的方法才能安裝成功，於最後再進行補充說明！
+- 資料科學套件當然還有很多，且**大部分**都可透過`pip install`來安裝，<br/>
+但有些套件確實需要使用別的方法才能安裝成功，於最後再進行補充說明！
 ![placeholder](/img_posts/pyinstall06.jpg "step8.")
 
 
