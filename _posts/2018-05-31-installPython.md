@@ -43,12 +43,12 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 ![placeholder](/img/pyinstall05.jpg "step7.")
 
 ## Step8. 
-- 透過**`pip install`**的方式安裝套件
+- 透過`**pip install**`的方式安裝套件
 - 資料科學常用套件為：<br/>
 &nbsp;1. scikit-learn<br/>
 &nbsp;2. pandas<br/>
 &nbsp;3. numpy<br/>
-&nbsp;則可以透過：<br/>
+則可以透過：<br/>
 &nbsp;`pip install scikit-learn`<br/>
 &nbsp;`pip install pandas`<br/>
 &nbsp;`pip install numpy`<br/>
