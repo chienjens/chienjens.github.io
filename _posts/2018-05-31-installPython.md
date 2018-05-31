@@ -73,7 +73,8 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 
 - 同`Step7.`，接著輸入`pip install spyder`
 - 安裝完畢後到Scripts資料夾中尋找**spyder3**應用程式
-- 可透過右鍵將**spyder3**釘選到工作列以方便使用~
+- 可透過右鍵將**spyder3**釘選到工作列以方便使用~<br/>
+<del>截圖的電腦是我第一次裝Python的電腦，**無腦的按Next**後果就是像我圖中的路徑一樣冏</del>
 ![placeholder](/img_posts/pyinstall07.jpg "step9.")
 
 
