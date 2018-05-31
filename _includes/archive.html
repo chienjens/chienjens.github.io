@@ -5,6 +5,7 @@
   {% endfor %}
 {% endcapture %}
 {% assign sortedtemptags = temptags | split:' ' | sort %}
+<!-- {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}  If you want tag-page sort tag from Z to A, using this command line-->
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
