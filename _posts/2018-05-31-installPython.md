@@ -4,7 +4,7 @@ title: 安裝Python與Packages
 subtitle: How to Install Python and Packages
 date: 2018-05-31
 author: Chien-Jens
-tags: Python install Package
+tags: Python Install Package
 comments: true
 signature: true
 ---
