@@ -10,8 +10,9 @@ signature: true
 ---
 
 ## Step1. 
-- 從[Python](https://www.python.org/downloads/)選擇符合自己電腦版本的安裝檔。
+- 從<a href="https://www.python.org/downloads/" target="_blank">Python</a>選擇符合自己電腦版本的安裝檔。
 
+<br/>
 
 ## Step2. 
 - 開啟安裝檔。
@@ -19,11 +20,13 @@ signature: true
 - 再選擇 **Cutomize installation**
 ![placeholder](/img_posts/pyinstall01.jpg "step2.")
 
+<br/>
 
 ## Step3. 
 - 點選**Next** <br/>
 ![placeholder](/img_posts/pyinstall02.jpg "step3.")
 
+<br/>
 
 ## Step4.
 - `<改變安裝路徑>`
@@ -32,15 +35,18 @@ signature: true
 - 更改完畢後點選Install。
 ![placeholder](/img_posts/pyinstall03.jpg "step4.")
 
+<br/>
 
 ## Step5. 
 - 就等他安裝完成吧！
 
+<br/>
 
 ## Step6. `<以下為安裝所需Package的步驟>`
 - 點選**開始**→搜尋**cmd**→以系統管理員身分執行cmd<br/>
 ![placeholder](/img_posts/pyinstall04.jpg "step6.")
 
+<br/>
 
 ## Step7.
 - 改變路徑至Python內的**Scripts**資料夾<br/>
@@ -49,6 +55,7 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 - 在cmd輸入`cd C:/Python/Scripts`
 ![placeholder](/img_posts/pyinstall05.jpg "step7.")
 
+<br/>
 
 ## Step8. 
 - 透過`pip install`的方式安裝套件
@@ -65,6 +72,7 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 但有些套件確實需要使用別的方法才能安裝成功，於最後再進行補充說明！
 ![placeholder](/img_posts/pyinstall06.jpg "step8.")
 
+<br/>
 
 ## Step9. `<此步驟為安裝Sypder IDE>`
 - 如自己有慣用或預計要使用的IDE，則可忽略這一步！
@@ -77,6 +85,7 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 <del>截圖的電腦是我第一次裝Python的電腦，**無腦的按Next**後果就是像我圖中的路徑一樣冏</del>
 ![placeholder](/img_posts/pyinstall07.jpg "step9.")
 
+<br/>
 
 ## Step10. 
 - 打開Python，透過`import XXX`的方式確認套件是否安裝成功。
@@ -96,6 +105,8 @@ Ex: 如安裝Python於C槽的Python資料夾中(C:/Python)，<br/>
 然後輸入`pip install XXX‑X.X.X‑cpXX‑cpXXm‑win_XX.whl` <br/>
 `<XX則是你下載的完整檔名，記得加上副檔名.whl>`
 - 等他安裝完成就可以了~
+
+<br/>
 
 以上是Python安裝的小小心得~ <br/>
 我是新手~希望可以幫到更新的新手XDD
