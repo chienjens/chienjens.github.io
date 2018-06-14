@@ -32,7 +32,7 @@ signature: true
 ## Step3.
 - 點選`左邊的`***Syntax coloring***
 - 點選`右邊的`***Edit selected***
-- `<P.S: 當然也可以點選下面的**Create new scheme**來自定屬於自己的主題>`
+- `<P.S: 當然也可以點選下面的**Create new scheme**來自訂屬於自己的主題>`
 ![placeholder](/img_posts/Spyder_comment03.png "step3.")
 
 <br/>
@@ -74,6 +74,6 @@ signature: true
 <br/>
 
 我這也能分解到**8個步驟**....<br/>
-我實在是佩服我自己XDDDD<br/>
+實在是佩服我自己<br/>
 <br/>
 跟我一樣對灰色過敏的趕快來改一下吧！
