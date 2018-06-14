@@ -23,15 +23,15 @@ signature: true
 <br/>
 
 ## Step2.
-- 點選**Tools**
-- 點選**Preferences**
+- 點選***Tools***
+- 點選***Preferences***
 ![placeholder](/img_posts/Spyder_comment02.png "step2.")
 
 <br/>
 
 ## Step3.
-- 點選`左邊的`**Syntax coloring**
-- 點選`右邊的`**Edit selected**
+- 點選`左邊的`***Syntax coloring***
+- 點選`右邊的`***Edit selected***
 - `<P.S: 當然也可以點選下面的**Create new scheme**來自定屬於自己的主題>`
 ![placeholder](/img_posts/Spyder_comment03.png "step3.")
 
@@ -39,29 +39,29 @@ signature: true
 
 ## Step4. 
 因為我主要是看註解(Comment)<del>不順眼</del>，所以只改這一部分。<br/>
-- 點選Comment後面的**灰色框框**
+- 點選Comment後面的***灰色框框***
 ![placeholder](/img_posts/Spyder_comment04.png "step4.")
 
 <br/>
 
 ## Step5.
-- 選自己喜歡的顏色`我覺得粉色很棒XDD`
-- 按**OK**
+- 選自己喜歡的顏色`(我覺得粉色很棒XDD)`
+- 按***OK***
 ![placeholder](/img_posts/Spyder_comment05.png "step5.")
 
 <br/>
 
 ## Step6. 
 - `<它變了>`
-- 按**OK**
+- 按***OK***
 ![placeholder](/img_posts/Spyder_comment06.png "step6.")
 
 <br/>
 
 ## Step7.
 - `<它真的變了>`
-- 先按**Apply**
-- 再按**OK**
+- 先按***Apply***
+- 再按***OK***
 ![placeholder](/img_posts/Spyder_comment07.png "step7.")
 
 <br/>
